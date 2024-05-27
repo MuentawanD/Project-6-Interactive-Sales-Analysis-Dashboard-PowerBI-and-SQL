@@ -1,0 +1,411 @@
+Country,CategoryName,Year,Total_Sale,Total_Profit,Margin
+Argentina,Babywear,2020,96.3,16.56,17.2
+Argentina,Babywear,2021,116.45,13.74,11.8
+Argentina,Babywear,2022,34.05,4.02,11.81
+Argentina,"Bath Clothes",2020,18.72,3.22,17.2
+Argentina,"Bath Clothes",2021,8.19,1.56,19.05
+Argentina,"Bath Clothes",2022,292.04,40.19,13.76
+Argentina,"Children wear",2019,294.96,50.73,17.2
+Argentina,"Children wear",2022,626.3,73.9,11.8
+Argentina,"Men Clothes",2021,855.6,100.96,11.8
+Argentina,"Men Clothes",2022,269,42.22,15.7
+Argentina,"Men Footwear",2021,730.52,138.8,19
+Argentina,Sportwear,2019,131.52,22.62,17.2
+Argentina,Sportwear,2020,76.68,13.19,17.2
+Argentina,Sportwear,2021,1516.1,178.4,11.77
+Argentina,Sportwear,2022,281.94,32.5,11.53
+Argentina,"Women wear",2021,3886.4,458.6,11.8
+Argentina,"Women wear",2022,1090.6,128.69,11.8
+Austria,Babywear,2020,523.89,98.77,18.85
+Austria,Babywear,2021,3123.01,712.65,22.82
+Austria,Babywear,2022,1252.9,257.72,20.57
+Austria,"Bath Clothes",2020,695.75,121.79,17.5
+Austria,"Bath Clothes",2021,827.8,260.13,31.42
+Austria,"Bath Clothes",2022,411.2,19.11,4.65
+Austria,"Children wear",2020,851.55,144.65,16.99
+Austria,"Children wear",2021,278.17,82.24,29.56
+Austria,"Ladies Footwear",2020,921.48,165.28,17.94
+Austria,"Ladies Footwear",2021,2721.99,750.48,27.57
+Austria,"Ladies Footwear",2022,1209.85,302.14,24.97
+Austria,"Men Clothes",2020,587.76,139.57,23.75
+Austria,"Men Clothes",2021,1684.51,485.95,28.85
+Austria,"Men Clothes",2022,398.59,105.62,26.5
+Austria,"Men Footwear",2020,3530.32,883.95,25.04
+Austria,"Men Footwear",2021,2714.37,794.81,29.28
+Austria,"Men Footwear",2022,272.88,46.94,17.2
+Austria,Sportwear,2020,972.67,204.98,21.07
+Austria,Sportwear,2021,3158.92,669.52,21.19
+Austria,Sportwear,2022,248.28,36.54,14.72
+Austria,"Women wear",2020,20925.11,3961.91,18.93
+Austria,"Women wear",2021,335.46,52.87,15.76
+Austria,"Women wear",2022,1869.63,329.18,17.61
+Belgium,"Bath Clothes",2021,647.1,198.16,30.62
+Belgium,"Children wear",2021,1570.4,253.6,16.15
+Belgium,"Ladies Footwear",2021,605.42,73.36,12.12
+Belgium,"Men Clothes",2021,922.5,80.39,8.71
+Belgium,"Men Footwear",2021,140.85,16.62,11.8
+Belgium,Sportwear,2021,5775.61,1115.96,19.32
+Belgium,"Women wear",2021,474.18,55.95,11.8
+Brazil,Babywear,2019,926.98,188.65,20.35
+Brazil,Babywear,2020,84.99,21.02,24.73
+Brazil,Babywear,2021,5362.27,1038.18,19.36
+Brazil,Babywear,2022,2845.74,461.31,16.21
+Brazil,"Bath Clothes",2019,153.4,20.86,13.6
+Brazil,"Bath Clothes",2020,107.66,18.52,17.2
+Brazil,"Bath Clothes",2021,1144.06,185.41,16.21
+Brazil,"Bath Clothes",2022,1262.75,287.28,22.75
+Brazil,"Children wear",2020,2187.11,540.81,24.73
+Brazil,"Children wear",2021,134.21,39.68,29.57
+Brazil,"Children wear",2022,431.11,100.47,23.3
+Brazil,"Ladies Footwear",2019,1061.1,182.51,17.2
+Brazil,"Ladies Footwear",2021,6737.42,1699.01,25.22
+Brazil,"Men Clothes",2019,310.78,52.71,16.96
+Brazil,"Men Clothes",2020,634.4,149.14,23.51
+Brazil,"Men Clothes",2021,4071.49,955.49,23.47
+Brazil,"Men Footwear",2019,234.43,50.29,21.45
+Brazil,"Men Footwear",2021,3832.7,744.76,19.43
+Brazil,"Men Footwear",2022,5055.31,1256.78,24.86
+Brazil,Sportwear,2019,5053.99,1034.98,20.48
+Brazil,Sportwear,2020,1184.83,204.03,17.22
+Brazil,Sportwear,2021,8752,1808.87,20.67
+Brazil,Sportwear,2022,1982.2,366.88,18.51
+Brazil,"Women wear",2019,7239.93,1735.55,23.97
+Brazil,"Women wear",2020,707.12,186.42,26.36
+Brazil,"Women wear",2021,39487.56,5982.18,15.15
+Brazil,"Women wear",2022,4590.7,751.05,16.36
+Canada,Babywear,2019,135.46,18.42,13.6
+Canada,Babywear,2020,204.4,35.16,17.2
+Canada,Babywear,2021,2994.85,362.26,12.1
+Canada,"Bath Clothes",2019,48.51,11.09,22.86
+Canada,"Bath Clothes",2020,153.3,26.37,17.2
+Canada,"Bath Clothes",2021,1059.03,267.57,25.27
+Canada,"Bath Clothes",2022,221.16,24.76,11.2
+Canada,"Children wear",2020,985.5,169.51,17.2
+Canada,"Ladies Footwear",2020,1406.57,313.35,22.28
+Canada,"Ladies Footwear",2021,4908.3,1033.84,21.06
+Canada,"Ladies Footwear",2022,1595.46,188.26,11.8
+Canada,"Men Clothes",2020,143.88,36.31,25.24
+Canada,"Men Clothes",2021,3097.08,536.05,17.31
+Canada,"Men Clothes",2022,172.04,34.1,19.82
+Canada,"Men Footwear",2019,2220.16,415.01,18.69
+Canada,"Men Footwear",2022,2461.2,290.42,11.8
+Canada,Sportwear,2019,3208.8,573.7,17.88
+Canada,Sportwear,2020,253.76,43.64,17.2
+Canada,Sportwear,2021,3306.51,810.29,24.51
+Canada,Sportwear,2022,1868.33,262.82,14.07
+Canada,"Women wear",2019,7856.76,1383.01,17.6
+Canada,"Women wear",2020,65.6,11.28,17.2
+Canada,"Women wear",2021,6225.24,1825.18,29.32
+Denmark,Babywear,2021,1924.56,396.62,20.61
+Denmark,"Bath Clothes",2020,538.88,97.75,18.14
+Denmark,"Bath Clothes",2021,1232.02,229.83,18.65
+Denmark,"Children wear",2019,1201.06,235.47,19.61
+Denmark,"Children wear",2020,1146.08,386.92,33.76
+Denmark,"Children wear",2021,446.26,68.05,15.25
+Denmark,"Ladies Footwear",2019,1696.34,328.5,19.37
+Denmark,"Ladies Footwear",2021,1316.54,160.44,12.19
+Denmark,"Men Clothes",2019,192.31,59.61,31
+Denmark,"Men Clothes",2020,599.06,188.84,31.52
+Denmark,"Men Clothes",2021,1355.73,232.68,17.16
+Denmark,"Men Footwear",2021,2642.01,603.89,22.86
+Denmark,Sportwear,2019,57.91,12.42,21.45
+Denmark,Sportwear,2020,2875.43,924.88,32.16
+Denmark,Sportwear,2021,3772.7,904.42,23.97
+Denmark,Sportwear,2022,142.88,22.86,16
+Denmark,"Women wear",2021,10321.31,1853.59,17.96
+Finland,Babywear,2022,558.8,110.74,19.82
+Finland,"Children wear",2020,560.78,138.67,24.73
+Finland,"Children wear",2021,248.7,33.82,13.6
+Finland,"Men Clothes",2021,2307.04,420.92,18.25
+Finland,"Men Clothes",2022,215.05,34.88,16.22
+Finland,"Men Footwear",2021,1157.6,219.94,19
+Finland,Sportwear,2021,279.01,64.75,23.21
+France,Babywear,2019,439.57,81.45,18.53
+France,Babywear,2020,1568.46,428.34,27.31
+France,Babywear,2021,4075.06,826.81,20.29
+France,Babywear,2022,106.62,28.25,26.5
+France,"Bath Clothes",2020,585.04,153.76,26.28
+France,"Bath Clothes",2021,1647.2,357.09,21.68
+France,"Bath Clothes",2022,882.37,135.44,15.35
+France,"Children wear",2019,323.85,44.04,13.6
+France,"Children wear",2020,1207.16,333.65,27.64
+France,"Children wear",2021,3816.85,664.13,17.4
+France,"Children wear",2022,623.25,183.48,29.44
+France,"Ladies Footwear",2019,1759.6,302.65,17.2
+France,"Ladies Footwear",2020,7330.06,1815.1,24.76
+France,"Ladies Footwear",2021,2396.43,449.8,18.77
+France,"Ladies Footwear",2022,155.22,18.32,11.8
+France,"Men Clothes",2019,351.96,70.27,19.97
+France,"Men Clothes",2020,1993.68,501.13,25.14
+France,"Men Clothes",2021,8404.6,2049.84,24.39
+France,"Men Clothes",2022,961.8,113.49,11.8
+France,"Men Footwear",2019,2412.72,414.99,17.2
+France,"Men Footwear",2020,4888.64,1150.61,23.54
+France,"Men Footwear",2021,20914.78,4847.23,23.18
+France,Sportwear,2019,3873.12,667.79,17.24
+France,Sportwear,2020,11637.15,2723.59,23.4
+France,Sportwear,2021,7912.13,1643.13,20.77
+France,Sportwear,2022,122.25,35.99,29.44
+France,"Women wear",2020,28777.27,7500.65,26.06
+France,"Women wear",2021,15096.67,2699.41,17.88
+France,"Women wear",2022,3656.5,510.35,13.96
+Germany,Babywear,2019,1052.04,161.56,15.36
+Germany,Babywear,2020,4576.5,1078.53,23.57
+Germany,Babywear,2021,15292.42,3092.74,20.22
+Germany,Babywear,2022,2359.49,605.29,25.65
+Germany,"Bath Clothes",2019,906.75,123.32,13.6
+Germany,"Bath Clothes",2020,1350.21,242.87,17.99
+Germany,"Bath Clothes",2021,5623.48,1090.46,19.39
+Germany,"Bath Clothes",2022,2219.77,553.86,24.95
+Germany,"Children wear",2020,779.09,142.64,18.31
+Germany,"Children wear",2021,11687.73,2221.36,19.01
+Germany,"Children wear",2022,1378.4,234.24,16.99
+Germany,"Ladies Footwear",2019,3392.62,495.53,14.61
+Germany,"Ladies Footwear",2020,4506.3,1067.62,23.69
+Germany,"Ladies Footwear",2021,15377.61,3388.22,22.03
+Germany,"Ladies Footwear",2022,1573.37,211.69,13.45
+Germany,"Men Clothes",2019,1250.55,215.09,17.2
+Germany,"Men Clothes",2020,6031.89,1438.96,23.86
+Germany,"Men Clothes",2021,13735.03,2641.97,19.24
+Germany,"Men Clothes",2022,4523.07,1095.79,24.23
+Germany,"Men Footwear",2019,2720.6,370,13.6
+Germany,"Men Footwear",2020,9442.2,2061.1,21.83
+Germany,"Men Footwear",2021,45517.41,9316.64,20.47
+Germany,"Men Footwear",2022,9157.07,2430.48,26.54
+Germany,Sportwear,2019,7440.92,1183.83,15.91
+Germany,Sportwear,2020,19504.89,4274.42,21.91
+Germany,Sportwear,2021,37076.21,8227.87,22.19
+Germany,Sportwear,2022,7084.24,1480.6,20.9
+Germany,"Women wear",2019,14136.2,2276.58,16.1
+Germany,"Women wear",2020,31209.78,5947.92,19.06
+Germany,"Women wear",2021,146739.09,31446.61,21.43
+Germany,"Women wear",2022,17494.83,2904.72,16.6
+Ireland,Babywear,2019,1122.7,214.71,19.12
+Ireland,Babywear,2020,3015.82,671.56,22.27
+Ireland,Babywear,2021,5853.11,1440.41,24.61
+Ireland,Babywear,2022,1440.96,285.57,19.82
+Ireland,"Bath Clothes",2020,2215.39,466.65,21.06
+Ireland,"Bath Clothes",2021,1235.08,256.95,20.8
+Ireland,"Bath Clothes",2022,1285,220.09,17.13
+Ireland,"Children wear",2020,1743.7,299.92,17.2
+Ireland,"Children wear",2021,196.68,17.21,8.75
+Ireland,"Children wear",2022,1445.7,248.66,17.2
+Ireland,"Ladies Footwear",2019,424.77,73.06,17.2
+Ireland,"Ladies Footwear",2020,4444.38,1017.08,22.88
+Ireland,"Ladies Footwear",2021,4349.39,686.18,15.78
+Ireland,"Ladies Footwear",2022,604.8,104.03,17.2
+Ireland,"Men Clothes",2019,2667.19,546.51,20.49
+Ireland,"Men Clothes",2020,275.82,44.22,16.03
+Ireland,"Men Clothes",2021,3592.48,1016.06,28.28
+Ireland,"Men Clothes",2022,1664.75,306.25,18.4
+Ireland,"Men Footwear",2019,3609.88,1005.87,27.86
+Ireland,"Men Footwear",2020,480.66,110.12,22.91
+Ireland,"Men Footwear",2021,11686.91,3248.24,27.79
+Ireland,Sportwear,2019,8285.77,1758.69,21.23
+Ireland,Sportwear,2020,3257.54,658.63,20.22
+Ireland,Sportwear,2021,3954.99,648.38,16.39
+Ireland,Sportwear,2022,1542.17,271.81,17.63
+Ireland,"Women wear",2019,1168.8,201.03,17.2
+Ireland,"Women wear",2020,4598.06,918.31,19.97
+Ireland,"Women wear",2021,17559.29,4916.77,28
+Ireland,"Women wear",2022,1889.27,335.34,17.75
+Italy,Babywear,2021,531.23,96.59,18.18
+Italy,Babywear,2022,440.99,67.2,15.24
+Italy,"Bath Clothes",2021,387.44,114.55,29.57
+Italy,"Bath Clothes",2022,410.4,44.57,10.86
+Italy,"Children wear",2021,1042.6,134.82,12.93
+Italy,"Ladies Footwear",2020,561.54,118.73,21.14
+Italy,"Ladies Footwear",2021,129.2,24.55,19
+Italy,"Men Clothes",2019,128.8,12.66,9.83
+Italy,"Men Clothes",2021,346.77,61.24,17.66
+Italy,"Men Footwear",2021,167.43,31.81,19
+Italy,"Men Footwear",2022,929.8,109.72,11.8
+Italy,Sportwear,2019,443.58,55.92,12.61
+Italy,Sportwear,2020,1693.13,357.98,21.14
+Italy,Sportwear,2021,450.88,95.7,21.23
+Italy,Sportwear,2022,571.72,67.46,11.8
+Italy,"Women wear",2019,596.7,80.94,13.56
+Italy,"Women wear",2021,3127.71,745.77,23.84
+Italy,"Women wear",2022,131.1,15.47,11.8
+Mexico,Babywear,2019,378.3,51.45,13.6
+Mexico,Babywear,2020,217.77,56.85,26.11
+Mexico,Babywear,2021,2198.83,457.27,20.8
+Mexico,Babywear,2022,613.68,120.24,19.59
+Mexico,"Bath Clothes",2021,788.5,133.57,16.94
+Mexico,"Children wear",2020,682.78,92.86,13.6
+Mexico,"Children wear",2021,1904.61,248.46,13.05
+Mexico,"Ladies Footwear",2020,112.09,29.55,26.36
+Mexico,"Ladies Footwear",2021,5694.2,1079.39,18.96
+Mexico,"Men Clothes",2019,707.52,96.22,13.6
+Mexico,"Men Clothes",2020,2473.17,565.87,22.88
+Mexico,"Men Clothes",2021,3034.17,600.63,19.8
+Mexico,"Men Clothes",2022,5135.46,1139.59,22.19
+Mexico,"Men Footwear",2020,419.84,64.66,15.4
+Mexico,"Men Footwear",2021,16371.83,3850.29,23.52
+Mexico,"Men Footwear",2022,899.36,171.08,19.02
+Mexico,Sportwear,2020,1569.34,253.63,16.16
+Mexico,Sportwear,2021,4846.35,1008.57,20.81
+Mexico,Sportwear,2022,420.01,111.3,26.5
+Mexico,"Women wear",2020,20674.62,3119.75,15.09
+Mexico,"Women wear",2021,6550.42,1274.78,19.46
+Mexico,"Women wear",2022,1881,176.26,9.37
+Norway,Babywear,2021,193.36,36.74,19
+Poland,Babywear,2019,773.55,105.2,13.6
+Poland,"Bath Clothes",2019,273.3,37.17,13.6
+Poland,"Bath Clothes",2021,19.26,2.27,11.79
+Poland,"Children wear",2021,633.2,74.72,11.8
+Poland,"Men Clothes",2021,795.96,131.05,16.46
+Poland,"Men Footwear",2021,215.24,25.4,11.8
+Poland,Sportwear,2021,586.57,96.77,16.5
+Poland,Sportwear,2022,316.8,37.38,11.8
+Portugal,"Bath Clothes",2020,130.18,38.49,29.57
+Portugal,"Ladies Footwear",2019,1072.68,184.5,17.2
+Portugal,"Men Clothes",2022,316.65,54.46,17.2
+Portugal,Sportwear,2020,391.46,115.74,29.57
+Portugal,Sportwear,2021,207.8,29.33,14.11
+Portugal,Sportwear,2022,236.78,75.31,31.81
+Portugal,"Women wear",2019,1534.68,429.72,28
+Portugal,"Women wear",2020,2739.6,520.52,19
+Portugal,"Women wear",2021,874.35,155.04,17.73
+Portugal,"Women wear",2022,1427.5,481.92,33.76
+Spain,Babywear,2020,32.45,6.17,19.01
+Spain,Babywear,2021,1148.31,246.46,21.46
+Spain,"Bath Clothes",2021,25.48,3.04,11.93
+Spain,"Ladies Footwear",2021,4827.42,1153.63,23.9
+Spain,"Men Clothes",2021,1088.89,144.59,13.28
+Spain,"Men Clothes",2022,335.3,35.97,10.73
+Spain,"Men Footwear",2021,6952.73,1025.34,14.75
+Spain,"Men Footwear",2022,298.32,35.2,11.8
+Spain,Sportwear,2021,1286.83,229.45,17.83
+Spain,"Women wear",2019,109.15,14.84,13.6
+Spain,"Women wear",2021,3894.13,556.06,14.28
+Spain,"Women wear",2022,935.85,90.2,9.64
+Sweden,Babywear,2019,589.93,100.51,17.04
+Sweden,Babywear,2020,25.7,5.87,22.84
+Sweden,Babywear,2021,3194.84,695.8,21.78
+Sweden,"Bath Clothes",2019,825.6,142,17.2
+Sweden,"Bath Clothes",2020,264.72,50.3,19
+Sweden,"Bath Clothes",2021,355.52,87.22,24.53
+Sweden,"Bath Clothes",2022,55.9,6.6,11.81
+Sweden,"Children wear",2020,1347.12,255.95,19
+Sweden,"Children wear",2021,4786.48,1132.4,23.66
+Sweden,"Ladies Footwear",2020,2147.5,408.03,19
+Sweden,"Ladies Footwear",2021,299.16,79.28,26.5
+Sweden,"Men Clothes",2019,267.3,36.36,13.6
+Sweden,"Men Clothes",2021,4549.51,1173.72,25.8
+Sweden,"Men Footwear",2019,270,46.44,17.2
+Sweden,"Men Footwear",2021,1356,399.21,29.44
+Sweden,"Men Footwear",2022,564.1,111.79,19.82
+Sweden,Sportwear,2019,4458.03,717.1,16.09
+Sweden,Sportwear,2020,742.65,140.46,18.91
+Sweden,Sportwear,2021,5023,1108.39,22.07
+Sweden,Sportwear,2022,538.05,63.49,11.8
+Sweden,"Women wear",2019,1460.64,198.65,13.6
+Sweden,"Women wear",2020,3106.93,742.84,23.91
+Sweden,"Women wear",2021,13465.75,3630.36,26.96
+Sweden,"Women wear",2022,854.4,100.82,11.8
+Switzerland,Babywear,2020,1052.76,200.03,19
+Switzerland,Babywear,2021,1337.05,307.97,23.03
+Switzerland,Babywear,2022,194.25,33.41,17.2
+Switzerland,"Bath Clothes",2020,473.52,89.97,19
+Switzerland,"Ladies Footwear",2021,786.5,58.37,7.42
+Switzerland,"Men Clothes",2021,236.25,37.8,16
+Switzerland,"Men Clothes",2022,342.4,58.89,17.2
+Switzerland,"Men Footwear",2020,552.84,105.04,19
+Switzerland,"Men Footwear",2021,5339.49,977.01,18.3
+Switzerland,Sportwear,2021,350.55,45.6,13.01
+Switzerland,Sportwear,2022,555.85,91.86,16.53
+Switzerland,"Women wear",2021,110.4,20.98,19
+Thailand,Babywear,2019,234.36,65.62,28
+Thailand,Babywear,2020,1403.05,426.44,30.39
+Thailand,Babywear,2021,5270.01,1258.79,23.89
+Thailand,Babywear,2022,3063.88,630.58,20.58
+Thailand,"Bath Clothes",2019,50.56,6.88,13.61
+Thailand,"Bath Clothes",2020,358.8,106.08,29.57
+Thailand,"Bath Clothes",2021,1287.18,255.99,19.89
+Thailand,"Bath Clothes",2022,627.51,101.9,16.24
+Thailand,"Children wear",2019,428.26,73.66,17.2
+Thailand,"Children wear",2020,1312.64,176.3,13.43
+Thailand,"Children wear",2021,846.8,99.92,11.8
+Thailand,"Children wear",2022,958,113.04,11.8
+Thailand,"Ladies Footwear",2020,1225.8,306.4,25
+Thailand,"Ladies Footwear",2021,312.3,59.34,19
+Thailand,"Ladies Footwear",2022,2944.58,675.8,22.95
+Thailand,"Men Clothes",2019,633.12,97.39,15.38
+Thailand,"Men Clothes",2020,2577.78,609.27,23.64
+Thailand,"Men Clothes",2021,5359.55,1231.14,22.97
+Thailand,"Men Clothes",2022,262.75,49.11,18.69
+Thailand,"Men Footwear",2019,1173,159.53,13.6
+Thailand,"Men Footwear",2020,2421.25,416.45,17.2
+Thailand,"Men Footwear",2021,177.2,33.67,19
+Thailand,"Men Footwear",2022,2204.4,260.12,11.8
+Thailand,Sportwear,2019,905.89,134.16,14.81
+Thailand,Sportwear,2020,4823.95,1437.13,29.79
+Thailand,Sportwear,2021,6138.49,1173.67,19.12
+Thailand,Sportwear,2022,3348.09,609.32,18.2
+Thailand,"Women wear",2019,924,132.34,14.32
+Thailand,"Women wear",2020,5586.68,1381.43,24.73
+Thailand,"Women wear",2021,1137.35,208.22,18.31
+Thailand,"Women wear",2022,1364.42,308.03,22.58
+UK,Babywear,2019,2832.78,767.16,27.08
+UK,Babywear,2020,1615.32,297.63,18.43
+UK,Babywear,2021,4152.64,611.08,14.72
+UK,Babywear,2022,812.4,95.86,11.8
+UK,"Bath Clothes",2019,126,21.67,17.2
+UK,"Bath Clothes",2020,863.33,194.11,22.48
+UK,"Bath Clothes",2021,1827.15,342.97,18.77
+UK,"Bath Clothes",2022,782.45,108.71,13.89
+UK,"Children wear",2019,2552.7,402.69,15.78
+UK,"Children wear",2020,617.4,106.19,17.2
+UK,"Children wear",2021,3656.92,631.74,17.28
+UK,"Children wear",2022,2467.2,291.13,11.8
+UK,"Ladies Footwear",2019,841.4,144.72,17.2
+UK,"Ladies Footwear",2020,5946.12,1118.2,18.81
+UK,"Ladies Footwear",2021,2915.09,598.66,20.54
+UK,"Ladies Footwear",2022,1048.42,169.43,16.16
+UK,"Men Clothes",2019,3243.03,803.3,24.77
+UK,"Men Clothes",2020,1520.97,284.76,18.72
+UK,"Men Clothes",2021,4241.25,657.16,15.49
+UK,"Men Clothes",2022,1151.54,162.33,14.1
+UK,"Men Footwear",2019,1811.32,311.55,17.2
+UK,"Men Footwear",2020,5541.08,1083.03,19.55
+UK,"Men Footwear",2021,2527.78,444.38,17.58
+UK,"Men Footwear",2022,690.9,88.17,12.76
+UK,Sportwear,2019,2029.98,346.94,17.09
+UK,Sportwear,2020,4150.21,855.1,20.6
+UK,Sportwear,2021,16709.99,2978.45,17.82
+UK,Sportwear,2022,749.73,106.89,14.26
+UK,"Women wear",2020,53306.85,11971.26,22.46
+UK,"Women wear",2021,8461.84,1425.44,16.85
+UK,"Women wear",2022,1087.19,133.12,12.24
+USA,Babywear,2019,1325.47,414.31,31.26
+USA,Babywear,2020,1227.01,211.04,17.2
+USA,Babywear,2021,6223.39,1429.22,22.97
+USA,Babywear,2022,2780.26,387.57,13.94
+USA,"Bath Clothes",2019,157.13,24.41,15.53
+USA,"Bath Clothes",2020,2283.09,430.34,18.85
+USA,"Bath Clothes",2021,1622.16,342.08,21.09
+USA,"Bath Clothes",2022,1726.42,182.92,10.6
+USA,"Children wear",2019,2720.32,476.7,17.52
+USA,"Children wear",2020,5851.87,1333.37,22.79
+USA,"Children wear",2021,4360.84,695.71,15.95
+USA,"Children wear",2022,3733.44,625.22,16.75
+USA,"Ladies Footwear",2019,2728.23,686.04,25.15
+USA,"Ladies Footwear",2020,11453.5,1781.33,15.55
+USA,"Ladies Footwear",2021,6829.36,1561.39,22.86
+USA,"Ladies Footwear",2022,7560.66,1039.3,13.75
+USA,"Men Clothes",2019,980.73,271.57,27.69
+USA,"Men Clothes",2020,4811.1,849.94,17.67
+USA,"Men Clothes",2021,2642.34,678.64,25.68
+USA,"Men Clothes",2022,1464.27,188.44,12.87
+USA,"Men Footwear",2019,5979.36,1336.91,22.36
+USA,"Men Footwear",2021,10316.15,2302.72,22.32
+USA,"Men Footwear",2022,2025.16,342.23,16.9
+USA,Sportwear,2019,2829.34,532.47,18.82
+USA,Sportwear,2020,14494.93,2931.02,20.22
+USA,Sportwear,2021,12517.53,2926.49,23.38
+USA,Sportwear,2022,5862.27,785.8,13.4
+USA,"Women wear",2019,5956.93,1340.28,22.5
+USA,"Women wear",2020,12727.16,2701.49,21.23
+USA,"Women wear",2021,15841.7,3046.63,19.23
+USA,"Women wear",2022,10723.37,1932.72,18.02
