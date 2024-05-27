@@ -1,0 +1,93 @@
+CustomerNumber,ContactName,City,Country,Phone,Latitude,Longitude
+1,Albert Von Einstein,Berlin,Germany,030-0074321,52.3396296,13.0911663
+2,Paco El Maco,M?xico D.F.,Mexico,(5) 555-4729,19.0482207,-99.3641703
+3,Sancho Panza,M?xico D.F.,Mexico,(5) 555-3932,19.0482207,-99.3641703
+4,Carl Montgomery,London,UK,(171) 555-7788,51.3849401,-0.3514683
+5,Urra Gurra Aktersnurra,Lule?,Sweden,0921-12 34 65,65.5444445,22.057593
+6,Herman Hinschler,Mannheim,Germany,0621-08460,49.4103619,8.4141602
+7,Julie Binoch?,Strasbourg,France,88.60.15.31,48.492005,7.6881429
+8,Julio Iglesias,Madrid,Spain,(91) 555 22 82,40.3120639,-3.8341618
+9,Bernard De Gaule,Marseille,France,91.24.45.40,43.169621,5.2779261
+10,James Hendersson,Tsawassen,Canada,(604) 555-4729,49.0020832,-123.1371894
+11,David Foot,London,UK,(171) 555-1212,51.3849401,-0.3514683
+12,Victoria Abril,Buenos Aires,Argentina,(1) 135-5555,-34.7051589,-58.5314522
+13,Speedy Gonzales,M?xico D.F.,Mexico,(5) 555-3392,19.0482207,-99.3641703
+14,Alfred Neumann,Bern,Switzerland,0452-076545,46.9191499,7.29423
+15,Edson Arantes Do Nascimento,S?o Paulo,Brazil,(11) 555-7647,-24.0082209,-46.825514
+16,Ian Wright,London,UK,(171) 555-2282,51.3849401,-0.3514683
+17,Lars Von Holstein,Aachen,Germany,0241-039123,50.6621268,5.9748992
+18,Pierre Chardin,Nantes,France,40.67.88.88,47.1806171,-1.6416767
+19,Greg Thatcher,London,UK,(171) 555-0297,51.3849401,-0.3514683
+20,Lars Saalbach,Graz,Austria,7675-3425,47.01204,15.3495298
+21,Romario Do Sauza,S?o Paulo,Brazil,(11) 555-9857,-24.0082209,-46.825514
+22,Filem?n,Madrid,Spain,(91) 555 94 44,40.3120639,-3.8341618
+23,Jaques Wilneuve,Lille,France,20.16.10.16,50.600887,2.967966
+24,Linda Haglund,Br?cke,Sweden,0695-34 67 21,62.736191,15.4004625
+25,Dieter K?ln,M?nchen,Germany,089-0877310,48.0616018,11.360796
+26,Jeanne D?Anjou,Nantes,France,40.32.21.21,47.1806171,-1.6416767
+27,Don Corleone,Torino,Italy,011-4988260,45.0067766,7.5778502
+28,Vitor Baiha,Lisboa,Portugal,(1) 354-2534,38.6913994,-9.2298356
+29,Jusep Del Pep,Barcelona,Spain,(93) 203 4560,41.320004,2.0695258
+30,El Cordobes,Sevilla,Spain,(95) 555 82 82,37.3152203,-6.0216578
+31,Anna Figo,Campinas,Brazil,(11) 555-9482,-23.0534185,-47.209686
+32,Ross The Boss,Eugene,USA,(503) 555-7555,43.9887109,-123.208402
+33,Weera Jaidee,Bangkok,Thailand,(66) 283-2951,13.746389,100.535004
+34,Joe Do Pintho,Rio de Janeiro,Brazil,(21) 555-0091,-23.0763469,-43.7950599
+35,Manee Pipatpong,Chaingmai,Thailand,(66) 555-1340,18.796143,98.979263
+36,Marcellus Wallace,Elgin,USA,(503) 555-6874,57.6282005,-3.3510877
+37,Robert Bolero,Cork,Ireland,2967542,51.8561501,-8.54552
+38,Al Yankovic,Cowes,UK,(198) 555-8888,50.7393981,-1.3293501
+39,Dieter Rummernige,Brandenburg,Germany,0555-09876,52.3115782,12.3610803
+40,Philippe De Laval,Versailles,France,30.59.84.10,48.779161,2.0698931
+41,Louise Davu,Toulouse,France,61.77.61.10,43.532708,1.350328
+42,Joe Barry,Vancouver,Canada,(604) 555-3392,49.1998604,-123.22474
+43,Klaus Tarantino,Walla Walla,USA,(509) 555-7969,46.0359789,-118.4149139
+44,Klaus Deum,Frankfurt a.M.,Germany,069-0245984,50.0152145,8.4727299
+45,Vincent Vega,San Francisco,USA,(415) 555-5938,37.7034,-122.527
+46,Tony Montana,Phuket,Thailand,(66) 331-6954,7.878978,98.398392
+47,Jitwadee Barbanegra,Bangkok,Thailand,(66) 34-56-12,13.7813332,100.5740005
+48,Andrea Pamelsson,Portland,USA,(503) 555-9573,45.432393,-122.8369952
+49,Luca Brassi,Bergamo,Italy,035-640230,45.6625158,9.6205463
+50,Marco Van Deum,Bruxelles,Belgium,(02) 201 24 67,50.8429548,4.3339926
+51,James Belucci,Montr?al,Canada,(514) 555-8054,45.4146906,-73.9488652
+52,Helmuth Klein,Leipzig,Germany,0342-023176,51.235539,12.2366321
+53,John Cleez,London,UK,(171) 555-7733,51.3849401,-0.3514683
+54,Don Gerardo,Buenos Aires,Argentina,(1) 135-5333,-34.7051589,-58.5314522
+55,Al Bundy,Anchorage,USA,(907) 555-7584,60.733791,-150.2862833
+56,Herman Schlusse,K?ln,Germany,0221-0644327,50.8295269,6.7725819
+57,Dizzi Gillespi,Paris,France,(1) 42.34.22.66,48.815573,2.224199
+58,Francisca Font Barcel?,M?xico D.F.,Mexico,(5) 552-3745,19.0482207,-99.3641703
+59,Herbert Bernstorf,Salzburg,Austria,6562-9722,47.75131,12.9859801
+60,Leopoldo Samba,Lisboa,Portugal,(1) 356-5634,38.6913994,-9.2298356
+61,Giovanni Santhos,Rio de Janeiro,Brazil,(21) 555-4252,-23.0763469,-43.7950599
+62,Jorge Alemaio,S?o Paulo,Brazil,(11) 555-1189,-24.0082209,-46.825514
+63,George Essen,Cunewalde,Germany,0372-035188,51.0766741,14.4714915
+64,Emerson Fittipaldi,Buenos Aires,Argentina,(1) 123-5555,-34.7051589,-58.5314522
+65,Malcolm X,Albuquerque,USA,(505) 555-5939,34.9467659,-106.881796
+66,Anna Bella,Reggio Emilia,Italy,0522-556721,44.6497931,10.5380178
+67,Thom? Lindao,Rio de Janeiro,Brazil,(21) 555-3412,-23.0763469,-43.7950599
+68,Carl Perry,Gen?ve,Switzerland,0897-034214,46.17766,6.1103201
+69,Emilio Ilegal,Madrid,Spain,(91) 745 6200,40.3120639,-3.8341618
+70,Akkurat Jonny,Stavern,Norway,07-98 92 35,58.9942527,10.0173259
+71,Perry Farell,Boise,USA,(208) 555-8097,43.511717,-116.3658869
+72,Ray Banned,London,UK,(171) 555-1717,51.3849401,-0.3514683
+73,Preben Elkjaer,K?benhavn,Denmark,31123456,55.615441,12.4533824
+74,Andr? Millard,Paris,France,(1) 47.55.60.10,48.815573,2.224199
+75,Paul Smith,Lander,USA,(307) 555-4680,42.810071,-108.76097
+76,Cheril Cow,Charleroi,Belgium,(071) 23 67 22 20,50.3529,4.34772
+77,Charles Oakley,Portland,USA,(503) 555-3612,45.432393,-122.8369952
+78,Mary Stone,Butte,USA,(406) 555-5834,45.625222,-113.085474
+79,Heinz Disco,M?nster,Germany,0251-031259,51.8401511,7.4738326
+80,Peloto Gomez,M?xico D.F.,Mexico,(5) 555-2933,19.0482207,-99.3641703
+81,Mercedes Couto,S?o Paulo,Brazil,(11) 555-2167,-24.0082209,-46.825514
+82,Mark Stark,Kirkland,USA,(206) 555-8257,47.6423179,-122.2619483
+84,Pierre Robert,Lyon,France,78.32.54.86,45.707486,4.7718489
+85,Henry Renault,Reims,France,26.47.15.10,49.2039281,3.98604
+86,Ralf Schumaker,Stuttgart,Germany,0711-020361,48.6920187,9.0386053
+87,Miiko Heikill?,Oulu,Finland,981-443655,65.0092865,25.4509926
+88,Mariah Erdi,Resende,Brazil,(14) 555-8122,-22.4971836,-44.5086274
+89,Alice Chain,Seattle,USA,(206) 555-4112,47.4955511,-122.4359085
+90,Reijoo Haajanen,Helsinki,Finland,90-224 8858,60.1677742,24.9250174
+91,Boniekk Wallessa,Warszawa,Poland,(26) 642-7012,52.0978767,20.8512898
+94,Dennis Olsen,?rhus,Denmark,86213243,56.1051898,10.0267524
+127,Staffan Blond,Stockholm,Sweden,(8) 10 20 30,59.224443,17.7768621

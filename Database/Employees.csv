@@ -1,0 +1,13 @@
+EmployeeCode,LastName,FirstName,Prefix,Date of Birth,Month of Birth,Year of Birth,BirthDate,HireDate,Department,Title,Level,Salary,Grade,Address,City,Region,PostalCode,Country,Email,HomePhone,Extension
+1,Davolio,Nancy,Ms.,7,12,1971,1971-12-7,2002-05-01,Sales,Sales Representative,Senior,45000,GradeB,507 - 20th Ave. E. Apt. 2A,Seattle,WA,98122,USA,nancy.davolio@9experttraining.com,(206) 555-9857,5467
+2,Fuller,Andrew,Dr.,18,2,1975,1975-2-18,2002-08-14,Sales,"Vice President, Sales",Management,100000,GradeA,908 W. Capital Way,Tacoma,WA,98401,USA,andrew.fuller@9experttraining.com,(206) 555-9482,1200
+3,Peacock,Margaret,Mrs.,18,9,1970,1970-9-18,2006-05-03,Sales,Sales Representative,Senior,30000,GradeA,4110 Old Redmond Rd.,Redmond,WA,98052,USA,margaret.peacock@9experttraining.com,(206) 555-8122,5176
+4,Buchanan,Steven,Mr.,3,3,1978,1978-3-3,2006-10-17,Sales,Sales Manager,Management,60000,GradeA,14 Garrett Hill,London,,SW1 8JR,UK,steven.buchanan@9experttraining.com,(71) 555-4848,3453
+5,Suyama,Michael,Mr.,30,6,1976,1976-6-30,2006-10-17,Sales,Sales Representative,Junior,25000,GradeC,Coventry House Miner Rd.,London,,EC2 7JR,UK,michael.suyama@9experttraining.com,(71) 555-7773,428
+6,King,Robert,Mr.,28,5,1983,1983-5-28,2007-01-02,Sales,Sales Representative,Junior,25000,GradeC,Edgeham Hollow Winchester Way,London,,RG1 9SP,UK,robert.king@9experttraining.com,(71) 555-5598,465
+7,Callahan,Laura,Ms.,8,1,1991,1991-1-8,2009-03-05,Sales,Inside Sales Coordinator,Junior,17500,GradeA,4726 - 11th Ave. N.E.,Seattle,WA,98105,USA,laura.callahan@9experttraining.com,(206) 555-1189,2344
+8,Dodsworth,Anne,Ms.,26,1,1993,1993-1-26,2010-11-15,Sales,Sales Representative,Junior,15000,GradeB,7 Houndstooth Rd.,London,,WG2 7LT,UK,anne.dodsworth@9experttraining.com,(71) 555-4444,452
+9,Chanpen,Chutima,Mrs.,12,4,1987,1987-4-12,2014-02-01,Sales,Sales Manager,Management,60000,GradeA,56 Tiwanoon Rd.,Nonthaburi,,11120,Thailand,chutima.chanpen@9experttraining.com,(081) 098-4454,4144
+10,Chong,Kai kok,Mr.,11,11,1993,1993-11-11,2014-03-01,Sales,Assistant Sales Manager,Senior,33000,GradeB,"9 , Leng Kee Rd.",Singapore,,159088,Singapore,kai kok.chong@9experttraining.com,(656) 512-7555 ,4150
+11,Mungmee,Somchai,Mr.,10,3,1998,1998-3-10,2016-04-01,Sales,Sales Representative,Senior,25000,GradeA,33/5 Taradmai Rd.,Chonburi,,20000,Thailand,somchai.mungmee@9experttraining.com,(085) 113-6968,5567
+12,Lee,David,Mr.,12,12,2002,2002-12-12,2018-04-14,Sales,Sales Representative,Junior,20000,GradeC,"4 Fusionopolis Link, #04-01",Singapore,,138542,Singapore,david.lee@9experttraining.com,(656) 375-8560,5570
